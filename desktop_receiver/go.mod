@@ -21,8 +21,8 @@ require (
 	github.com/soypat/seqs v0.0.0-20260125140838-2c1c6b1bd69e // indirect
 	github.com/tinygo-org/cbgo v0.0.4 // indirect
 	github.com/tinygo-org/pio v0.3.0 // indirect
-	golang.org/x/crypto v0.12.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
 	golang.org/x/exp v0.0.0-20260727155853-b88d891fe743 // indirect
-	golang.org/x/net v0.10.0 // indirect
+	golang.org/x/net v0.54.0 // indirect
 	tinygo.org/x/espradio v0.3.0 // indirect
 )
